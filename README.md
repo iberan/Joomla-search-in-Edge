@@ -1,5 +1,5 @@
 # Joomla-search-in-Edge
-Joomla search in Edge browser only: accented characters are decoded and gives back empty result.
+Joomla search in Edge browser only: accented characters are encoded and gives back empty result.
 
 		á é í ó ő ú ű => Ăˇ Ă© Ă­ Ăł Ĺ‘ Ăş Ĺ±
 
